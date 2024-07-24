@@ -1,9 +1,9 @@
 {
-  "name":"TKM-bot",
-  "description":"Deploy your TKM bot now.Brought to you by the Cod3Uchiha.Make sure you fill all valuables to avoid bot from sleeping. ",
+  "name":"Ladybug 🐞 Md",
+  "description":"Deploy your Ladybug 🐞 Md now.Brought to you by the Mr Ntando Ofc.Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/e07a3d933fb4cad0b3791.jpg",
-  "repository":"https://github.com/Cod3Uchiha/TKM-bot",
+  "logo":"https://telegra.ph/file/ca0d2ddf361c69bdd52fd.jpg",
+  "repository":"https://github.com/Ladybug-md/TKM-bot",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"TKM bot",
+      "value":"Ladybug 🐞 Md",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/e07a3d933fb4cad0b3791.jpg",
+      "value":"https://telegra.ph/file/ca0d2ddf361c69bdd52fd.jpg8",
       "required":false
        
      },
@@ -76,14 +76,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Cod3Uchiha"
+    "value": "Mr Ntando Ofc"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "263775571820,263785028126"
+    "value": "263781686568,263715275611"
   },
     "WARN_COUNT":
   {
