@@ -1,5 +1,5 @@
 {
-  "name": "TKM bot",
+  "name": "Ladybug 🐞 Md",
   "version": "1",
   "description": "",
   "main": "index.js",
@@ -12,15 +12,15 @@
   "keywords": [
     "bot",
     "Baileys",
-    "TKM-BOT",
+    "Ladybug 🐞 Md",
     "whatsapp",
     "whatsapp-bot",
-    "Cod3Uchiha",
-    "Manjiro-Sano-md",
-    "Tkm bot",
-    "CodeUchiha"
+    "Mr Ntando Ofc",
+    "Sub-Zero V1",
+    "Ladybug 🐞 Md",
+    "Mr Ntando Ofc"
   ],
-  "author": "Cod3Uchiha",
+  "author": "Mr Ntando Ofc",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
